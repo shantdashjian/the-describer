@@ -5,6 +5,7 @@ An app to describe an image, powered with Claude AI.
 
 ## In This Document:
   - [Live Application URL](#live-application-url)
+  - [System Design](#system-design)
   - [Repositories](#repositories)
   - [How to Use the Application](#how-to-use-the-application)
   - [Technologies Used](#technologies-used)
@@ -13,6 +14,9 @@ An app to describe an image, powered with Claude AI.
 
 ## Live Application URL
 [https://thedescriber.pages.dev/](https://thedescriber.pages.dev/)
+
+## System Design
+![system design](images/system-design.png)
 
 ## Repositories:
 1. [Web client repository](https://github.com/shantdashjian/the-describer-client)
